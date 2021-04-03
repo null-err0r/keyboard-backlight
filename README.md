@@ -1,7 +1,7 @@
-# keyboard-backlight
-
-# original repo https://github.com/MidhunSureshR/openauranb
+# keyboard backlight for ASUS ROG
 
 # I added a simple Python script for ease of use
  
-# run => ' python backlight.py '
+### run ?
+
+python backlight.py
